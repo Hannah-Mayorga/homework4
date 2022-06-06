@@ -1,0 +1,13 @@
+.gallery-wrapper {
+    max-width: 980px;
+    min-height: 200px;
+    margin: 0 auto;
+    font-family: GillSansReg;
+    .row {
+        display: flex;
+    }
+    .col {
+        flex: 1;
+        padding: 10px;
+    }
+}

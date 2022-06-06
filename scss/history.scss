@@ -1,0 +1,20 @@
+.history {
+    max-width: 980px;
+    min-height: 378px;
+    margin: -25px auto 0 auto;
+
+    .history-title {
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 25px;
+        border-bottom: 2px solid black;
+        padding-right: 30px;
+        padding-bottom: 15px;
+        font-family: GillSansReg;
+    }
+
+    p {
+        margin-top: 50px;
+    }
+
+}
